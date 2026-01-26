@@ -25,7 +25,7 @@ Since this is the beginning, I am not too strict on how you should be coding the
 | Lab 5 | Profile Maker! | 20pts | 10pts | 30pts
 | Total | | | | 100pts
 
-Note that Test Cases are graded by 
+Note that Test Cases are graded by your professor testing them. Functionality tl;dr just means if your program works.
 
 ## Test Cases
 

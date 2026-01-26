@@ -19,9 +19,9 @@ Since this is the beginning, I am not too strict on how you should be coding the
 | Lab Number | Description | Functionality | Test Cases | Total Points | 
 |-|-|-|-|-|
 | Lab 1  | Age in 5 years!   | 10pts   | 5pts | 15pts
-| Lab 2  | Lyrics to favorite song   | 10pts   | 0pts | 15pts
+| Lab 2  | Lyrics to favorite song   | 10pts   | 0pts | 10pts
 | Lab 3 | Mini Madlibs! | 15pts | 15pts | 30pts
-| Lab 4 | Area of Circle | 10pts | 5pts | 10pts
+| Lab 4 | Area of Circle | 10pts | 5pts | 15pts
 | Lab 5 | Profile Maker! | 20pts | 10pts | 30pts
 | Total | | | | 100pts
 

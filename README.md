@@ -19,9 +19,9 @@ Since this is the beginning, I am not too strict on how you should be coding the
 | Lab Number | Description | Functionality | Test Cases | Total Points | 
 |-|-|-|-|-|
 | Lab 1  | Age in 5 years!   | 10pts   | 5pts | 15pts
-| Lab 2  | Lyrics to favorite song   | 15pts   | 0pts | 15pts
+| Lab 2  | Lyrics to favorite song   | 10pts   | 0pts | 15pts
 | Lab 3 | Mini Madlibs! | 15pts | 15pts | 30pts
-| Lab 4 | Area of Circle | 5pts | 5pts | 10pts
+| Lab 4 | Area of Circle | 10pts | 5pts | 10pts
 | Lab 5 | Profile Maker! | 20pts | 10pts | 30pts
 | Total | | | | 100pts
 
@@ -31,7 +31,7 @@ Note that Test Cases are graded by your professor testing them. Functionality tl
 
 Please note that the test cases are **examples** on how your code should work, not templates for you to copy. They show you what inputs to try and what kind of behavior to expect, but you have complete freedom in how you implement and present your solution.
 
-**Note:** Not all labs will contain test cases for you to try. 
+**Note:** Not all labs will contain test cases for you to try. In the times with no test cases it is your job to work it out.
 
 ### Lab 1
 ```

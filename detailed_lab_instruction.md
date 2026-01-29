@@ -14,6 +14,18 @@ For your file names, please name each lab the following:
 `lab1{letter}_yourlastnameandfirstnameinitials`
 
 So for example, I am turning in Lab 1c, the file name is `lab1c_galangmi`
+## Sample Lab1
+Write a program to compute the area of a triangle. Issue the appropraite prompts for the traiangle's base and height. Then, use the formula `.5 * base * height` to compute the area.
+
+Recommended functions:
+`print()`, `input()`, `float()`
+
+
+## Sample Lab1b
+A cuboid is a solid figure bounded by six rectangular faces. Its dimensions are its `height`, `width`, `depth`. Write a Python program in a file named `cuboid.py` that computes and prints the volume of a cuboid, given its `height`, `width`, and `depth` as inputs. The volume is `height * width * depth`.
+
+Recommended functions:
+`print()`, `input()`, `float()`
 
 ## Lab 1a
 Create a program that prompts the user asking about their age. Then from there, print out a message about what their age will be in 5 years!

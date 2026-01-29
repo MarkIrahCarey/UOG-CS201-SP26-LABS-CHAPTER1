@@ -18,11 +18,11 @@ Since this is the beginning, I am not too strict on how you should be coding the
 
 | Lab Number | Description | Functionality | Test Cases | Total Points | 
 |-|-|-|-|-|
-| Lab 1  | Age in 5 years!   | 10pts   | 5pts | 15pts
-| Lab 2  | Lyrics to favorite song   | 10pts   | 0pts | 10pts
-| Lab 3 | Mini Madlibs! | 15pts | 15pts | 30pts
-| Lab 4 | Area of Circle | 10pts | 5pts | 15pts
-| Lab 5 | Profile Maker! | 20pts | 10pts | 30pts
+| Lab 1a  | Age in 5 years!   | 10pts   | 5pts | 15pts
+| Lab 1b  | Lyrics to favorite song   | 10pts   | 0pts | 10pts
+| Lab 1c | Mini Madlibs! | 15pts | 15pts | 30pts
+| Lab 1d | Area of Circle | 10pts | 5pts | 15pts
+| Lab 1e | Profile Maker! | 20pts | 10pts | 30pts
 | Total | | | | 100pts
 
 Note that Test Cases are graded by your professor testing them. Functionality tl;dr just means if your program works.
@@ -33,13 +33,13 @@ Please note that the test cases are **examples** on how your code should work, n
 
 **Note:** Not all labs will contain test cases for you to try. In the times with no test cases it is your job to work it out.
 
-### Lab 1
+### Lab 1a
 ```
 Enter your age: 23
 In 5 years, you will be 28!
 ```
 
-### Lab 2
+### Lab 1b
 ```
 ==================
 SZA, Normal Girl
@@ -56,7 +56,7 @@ No fightin' and no stoppin'
 Stick around
 ```
 
-### Lab 3
+### Lab 1c
 ```
 Enter an animal: Capybara
 Enter some food: Chicken
@@ -71,13 +71,13 @@ Mark Ira got their meal but oh no, the Chicken was poisoned!
 They died at the age of 23. 
 ```
 
-### Lab 4
+### Lab 1d
 ```
 Enter radius: 6.7
 The radius of the circle is: 128.6144 units^2
 ```
 
-### Lab 5
+### Lab 1e
 ```
 Enter your Name: Mark Ira
 Enter your Age: 23

@@ -1,18 +1,34 @@
-## Lab 1
+## General Instructions
 
+Each lab should have the following header:
+```
+"""
+Author: Your Name
+Date: Today's Date/Due Date
+FileName: The File's Name
+Purpose: What the program is about
+"""
+```
+
+For your file names, please name each lab the following:
+`lab1{letter}_yourlastnameandfirstnameinitials`
+
+So for example, I am turning in Lab 1c, the file name is `lab1c_galangmi`
+
+## Lab 1a
 Create a program that prompts the user asking about their age. Then from there, print out a message about what their age will be in 5 years!
 
 Recommended functions:
 `print()`, `int()`, `input()`
 
-## Lab 2
+## Lab 1b
 
 Create a program that prints out the first verse or lyrics of your favorite song (appropriate please)
 
 Recommended functions:
 `print()`
 
-## Lab 3
+## Lab 1c
 
 Create a program where the user enters a number of parts of speech to fill out a small story!
 Please have the user enter at least 5 parts of speech (nouns, verbs, etc.)
@@ -20,7 +36,7 @@ Please have the user enter at least 5 parts of speech (nouns, verbs, etc.)
 Recommended functions:
 `print()`,`input()`
 
-## Lab 4
+## Lab 1d
 
 Create a program that tells the user to enter some radius and returns the area of a circle!
 
@@ -29,7 +45,7 @@ Use the following equation (πr^2): 3.14 * radius ** 2
 Recommended functions:
 `print()`, `float()`, `input()`
 
-## Lab 5
+## Lab 1e
 
 Create a program that creates a profile for the user.
 You can have the user enter as many things about themselves, a minimum of four a maximum of ten.
